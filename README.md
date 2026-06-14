@@ -8,8 +8,8 @@ A full-stack **Placement Automated Management System** built with the **MERN Sta
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | _(Netlify — add URL after deploy)_ |
-| **Backend API** | _(Render — add URL after deploy)_ |
+| **Frontend** | [https://placementautomatedmanagementsystem.netlify.app](https://placementautomatedmanagementsystem.netlify.app) |
+| **Backend API** | [https://pams-placement-management-system.onrender.com](https://pams-placement-management-system.onrender.com) |
 
 ---
 
